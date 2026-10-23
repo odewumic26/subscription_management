@@ -121,6 +121,14 @@ Planned improvements include:
 
 My background is primarily in data analytics, where I've worked with SQL, Python, reporting, and dashboards to turn data into business insights.
 
+
+## Power BI Dashboard
+
+![Personal Subscription Tracker](dashboard.PNG)
+
+Interactive dashboard showing subscription payments, active subscriptions, costs, and upcoming renewals.
+
+
 With this project, I'm extending that experience into data engineering by focusing on how data is generated, loaded, validated, and structured before it reaches the reporting stage.
 
 The longer-term goal is to develop a more complete pipeline that connects data ingestion, transformation, storage, and business intelligence.
