@@ -1,0 +1,19 @@
+
+# Passwords and environment files
+.env
+.env.*
+!.env.example
+
+# Python environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Generated datasets
+data/*.csv
+
+# Temporary files
+.vscode/
+*.log
+.DS_Store
