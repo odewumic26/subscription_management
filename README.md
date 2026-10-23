@@ -15,7 +15,7 @@ The project uses synthetic data and is intended for portfolio demonstration rath
 - **SQL:** Data validation, querying, and analysis
 - **DBeaver:** Database development and management
 - **VS Code:** Python development
-- **Power BI:** Planned dashboard integration
+- **Power BI:** Interactive dashboard for subscription activity, payment history, costs, and upcoming renewals.
 - **Git & GitHub:** Version control and project documentation
 
 ## Project Development
@@ -53,7 +53,7 @@ I use SQL queries in DBeaver to verify record counts and check that the data was
 
 ## Data Pipeline
 
-Python Data Generator → CSV Files → Python/MySQL Loader → MySQL Database → SQL Analysis → Power BI (Planned)
+Python Data Generator → CSV Files → Python/MySQL Loader → MySQL Database → SQL Analysis → Power BI
 
 ## Running the Project
 
